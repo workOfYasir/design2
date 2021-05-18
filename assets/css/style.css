@@ -1,0 +1,324 @@
+
+        body{
+            padding: 0px;
+            padding-left: 0px;
+            padding-right: 0px;
+            margin: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+            overflow-x: hidden;
+            background-color: #e5f1f7;
+        }
+        .radio-card{
+          border-radius: 3%;
+        }
+        .radio-card:hover{
+          -webkit-box-shadow:inset 0px 0px 0px 2px #006d9a;
+    -moz-box-shadow:inset 0px 0px 0px 2px #006d9a;
+    box-shadow:inset 0px 0px 0px 2px #006d9a;
+
+        border-radius: 2%;
+        }
+        .dismiss {
+  animation: slide-out 0.2s forwards;
+  -webkit-animation: slide-out 0.2s forwards;
+}
+@keyframes slide-out {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+@-webkit-keyframes slide-out {
+  0% {
+    -webkit-transform: translateX(0%);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+  }
+}
+        .tab{
+            display: none;
+        }
+        .text{
+            font-size: 14px;
+        }
+        .strong-nav{
+            font-size: 18px;
+            color: #51CF6A;
+        }
+        #triangle_down {
+            width: 0;
+            height: 0;
+            border-top: 25px solid #267ebf;
+            border-left: 40px solid transparent;
+            border-right: 40px solid transparent;
+        }
+        .card-input-element {
+    display: none;
+}
+.col-md-3{
+padding-left: 8px;
+padding-right: 8px;
+}
+.progress{
+  height: 10px;
+  /* width: 50%; */
+}
+.card-input {
+    margin: 10px;
+    padding: 00px;
+}
+
+.card-input:hover {
+    cursor: pointer;
+}
+
+.card-input-element:checked + .card-input {
+     box-shadow: 0 0 1px 1px #2ecc71;
+ }
+ .img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+        #blue-card{
+            background-color: #267ebf;
+            box-shadow: inset 0 5px 7px -7px black;
+            padding-top: 15px;
+            font-weight: bold;
+            color:#fff;
+        }  
+        .nav{
+            padding-top: 15px;
+            padding-right: 0px;
+            padding-left: 0px;
+            padding-bottom: 15px;
+        }
+       .text-div{
+            padding-right: 10px;
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+       .diamond{
+            display: flex;
+            justify-content: center;
+        }
+        .diamond-div{
+            margin-top: -2px;
+        }
+        .footer-text {
+        font-family: 'Titillium Web', Geneva, sans-serif;
+        font-size: 15px;
+        color:#7D7D7D;
+       }
+       .contact-us{
+           background-color: #f4f6f8;
+           padding-left: 35px;
+           padding-right: 35px;
+     
+       }
+       .inline-img{
+        margin-bottom: 1.5%;
+       }
+       .contact-us-text{
+        font-family: 'Titillium Web', Geneva, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+       }
+       .a-tag{
+           color: #7D7D7D;
+           font-family: 'Titillium Web', Geneva, sans-serif;
+           font-size: 12px;
+       }
+       .copyright{
+            color: #7D7D7D;
+           font-family: 'Titillium Web', Geneva, sans-serif;
+           font-size: 12px;
+       }
+       .regForm .tab:not(:first-of-type) {
+    display: none;
+  }
+  .regForm fieldset:not(:first-of-type) {
+    display: none;
+  }
+  .progress-bar{
+    background-image: none;
+  }
+  @media (min-width: 1200px){
+.container-md {
+    width: 920px;
+}
+.icon{
+  display: none;
+}
+}
+/* @media (max-width: 1024px){
+.container-md {
+    width: 900px;
+    
+}
+.icon{
+  display: none;
+}
+.col-md-3{
+padding-left: 8px;
+padding-right: 8px;
+}
+.col-sm-3{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.col-xs-3{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+} */
+
+
+@media only screen and (max-width: 760px) and (min-width: 500px){
+  .container-md {
+  width: 480px;
+}
+.icon{
+  display: block;
+}
+.col-md-3{
+padding-left: 8px;
+padding-right: 8px;
+}
+.col-sm-3{
+  padding-left: 0px;
+  padding-right: 0px;
+
+}
+.col-xs-3{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.card-text{
+  padding: 20px; text-align:left; padding-left:0px
+}
+}
+@media only screen and (max-width: 500px) and (min-width: 330px){ 
+  .container-md {
+  width: 360px;
+}
+.icon{
+  display: block;
+}
+.radio-tab{
+  height: 200px;
+}
+.col-xs-12{
+  padding-right: 10px;
+     padding-left: 2px;
+}
+.card-wrapper{
+  height: 90px;
+}
+.card-text{
+  padding: 25px; text-align:left; padding-left:0px;width: 120%;
+}
+}
+@media only screen and (max-width: 330px) { 
+  .container-md {
+  width: 320px;
+}
+.icon{
+  display: block;
+}
+.col-xs-12{
+  padding-right: 10px;
+     padding-left: 2px;
+}
+.card-wrapper{
+  height: 90px;
+}
+.card-text{
+  padding: 20px; text-align:left; padding-left:0px
+}
+}
+@media only screen and (max-width: 280px) { 
+  .container-md {
+  width: 280px;
+}
+.col-xs-12{
+  padding-right: 10px;
+     padding-left: 2px;
+}
+.card-wrapper{
+  height: 90px;
+}
+.card-text{
+  padding: 25px; text-align:left; padding-left:0px;
+  
+}
+}
+
+      @media only screen and (max-width: 900px) {
+       .text{ 
+            font-size: 12px;
+            padding-left: 0px;
+            padding-top:14px;     
+            }
+        .strong-nav{
+            font-size: 15px;
+            color: #51CF6A;
+        }
+        #blue-card{
+            background-color: #267ebf;
+            box-shadow: inset 0 5px 7px -7px black;
+            font-weight: bold;
+            color: #fff;
+            padding-top: 2px;
+            padding-left: 2px;
+            padding-right: 2px;
+        }  
+        .blue-card-text{
+            font-size: 22px !important;
+        }
+        .nav{
+            padding-top: 10px;
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+       .text-div{
+            padding-right: 10px;
+            padding-right: 0px;
+            padding-left: 0px;
+       }
+       .img-brands{
+           width: 20%;
+           padding-left: 5px;
+           padding-right: 5px;
+           
+       }
+       .footer-text {
+        font-family: 'Titillium Web', Geneva, sans-serif;
+        font-size: 11px;
+        color:#7D7D7D;
+       }
+       .inline-img{
+margin-bottom: 1.5%;
+       }
+       .contact-us-child{
+           text-align: left !important;
+           padding: 5px;
+       }
+       .contact-us-text{
+        font-family: 'Titillium Web', Geneva, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        padding-left: 0px;
+        padding-right: 0px;
+       }
+       .contact-us-child-wrapper{
+           text-align: center !important;
+       }
+    }
+    
+    
