@@ -63,7 +63,9 @@ Bereits <strong class="strong-nav">365.034</strong><br/> Treppenlift-Anfragen ge
         <span style="font-size: 16px;">Unser System sucht jetzt die passenden Treppenlift-Fachhändler für Ihre Anfrage heraus.</span>
         <div class="mt-5">&nbsp;</div>
 <br>
-        <img src="./assets/img/lupe.gif" id="myImage" alt="">
+<div class="col-md-12">
+        <img src="./assets/img/lupe.gif" class="img-fluid" id="myImage" alt="">
+        </div>
         <div class="col-md-12 text-center"><div class="found-text" id="text" style="font-weight: bold; color:green" ></div></div>
 
 
