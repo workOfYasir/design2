@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -31,7 +31,7 @@
 </a></div>
 <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 col-md-offset-4 col-lg-offset-4 text-div">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center text">
-Bereits <strong class="strong-nav">365.034</strong><br/> Treppenlift-Anfragen gestellt</div>
+Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" style=" transform: rotate(30deg);"></i></strong> <br/> Treppenlift-Anfragen gestellt</div>
 </div>
 </div></div>
 </div>
