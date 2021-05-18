@@ -158,33 +158,50 @@ padding-right: 8px;
 .icon{
   display: none;
 }
+.card-wrapper{
+    padding-left: 10px;
+    padding-right: 0px;
+    }
+    .card-text{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .wizard-text{
+        padding-left: 0px;
+    padding-right: 0px;
+    }
 }
-/* @media (max-width: 1024px){
-.container-md {
-    width: 900px;
-    
-}
-.icon{
-  display: none;
-}
-.col-md-3{
-padding-left: 8px;
-padding-right: 8px;
-}
-.col-sm-3{
-  padding-left: 0px;
-  padding-right: 0px;
-}
-.col-xs-3{
-  padding-left: 0px;
-  padding-right: 0px;
-}
-} */
+ @media (max-width: 1024px){
+    .card-wrapper{
+        padding-left: 10px;
+        padding-right: 0px;
+        }
+        .card-text{
+            padding-left: 0px;
+            padding-right: 0px;
+        }
+        .wizard-text{
+            padding-left: 0px;
+        padding-right: 0px;
+        }
+} 
 
 
 @media only screen and (max-width: 760px) and (min-width: 500px){
   .container-md {
   width: 480px;
+}
+.card-wrapper{
+padding-left: 10px;
+padding-right: 0px;
+}
+.card-text{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.wizard-text{
+    padding-left: 0px;
+padding-right: 0px;
 }
 .icon{
   display: block;
@@ -228,7 +245,7 @@ padding-right: 8px;
   padding-right: 10px;
      padding-left: 2px;
 }
-.card-wrapper{
+.wrapper{
   height: 90px;
 }
 .card-text{
@@ -246,11 +263,11 @@ padding-right: 8px;
   padding-right: 10px;
      padding-left: 2px;
 }
-.card-wrapper{
+.wrapper{
   height: 90px;
 }
 .card-text{
-  padding: 20px; text-align:left; padding-left:0px
+  padding: 20px; text-align:left; padding-left:0px; padding-right: 0px;
 }
 }
 @media only screen and (max-width: 280px) { 
@@ -261,7 +278,7 @@ padding-right: 8px;
   padding-right: 10px;
      padding-left: 2px;
 }
-.card-wrapper{
+.wrapper{
   height: 90px;
 }
 .card-text{

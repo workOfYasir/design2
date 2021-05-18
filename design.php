@@ -79,7 +79,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="./assets/img/radio(1-4)1.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 " style="">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper " style="">
               <div class="panel-body text-center card-text"  >
               <div class="col-xs-10 ">
               Sitzlift</div>
@@ -101,7 +101,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto"src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57719/original_05x_plattformlift.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Plattformlift </div>
@@ -123,7 +123,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57677/original_05x_hublift.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Hublift</div>
@@ -145,7 +145,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57758/original_05x_weiss_nicht.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Weiß nicht </div>
@@ -171,7 +171,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57728/original_05x_sitzlift_innen.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Innen </div>
@@ -193,7 +193,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57722/original_05x_sitzlift_aussen.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Außen </div>
@@ -215,7 +215,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57758/original_05x_weiss_nicht.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 ">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper ">
               <div class="panel-body text-center card-text" >
 
               <div class="col-xs-10">
@@ -242,7 +242,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57650/original_05x_gerade_treppe.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 "  >
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper "  >
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Gerade Treppe </div>
@@ -264,7 +264,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57755/original_05x_treppe_mit_kurve.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12" >
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper" >
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Treppe mit Kurve </div>
@@ -286,7 +286,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57752/original_05x_sonstiges_hindernis.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
 
               <div class="col-xs-10"style="padding-right: 0px;">
@@ -309,7 +309,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57758/original_05x_weiss_nicht.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Weiß nicht </div>
@@ -334,7 +334,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57653/original_05x_bis_zu_2.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Bis zu 2 </div>
@@ -356,7 +356,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57689/original_05x_mehr_als_2.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Mehr als 2  </div>
@@ -378,10 +378,10 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57749/original_05x_sonstiges_hindernis_2.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 ">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
 
-              <div class="col-xs-10" style="padding-right:0px;">
+              <div class="col-xs-10 wizard-text" >
               Sonstiges Hindernis</div>
                 <div class="col-xs-1 text-right"><i class="fa fa-caret-right icon" aria-hidden="true" ></i>
                 </div>
@@ -401,9 +401,9 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57758/original_05x_weiss_nicht.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper" >
               <div class="panel-body text-center card-text" >
-              <div class="col-xs-10">
+              <div class="col-xs-10 ">
               Weiß nicht</div>
                 <div class="col-xs-1 text-right"><i class="fa fa-caret-right icon" aria-hidden="true" ></i>
                 </div>
@@ -426,7 +426,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57695/original_05x_pflegegrad_erteilt.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10" >
               Pflegegrad erteilt </div>
@@ -448,7 +448,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57692/original_05x_pflegeggrad_beantragt.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12"  >
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper"  >
               <div class="panel-body text-center card-text">
               <div class="col-xs-10" style="padding-right: 0px;">
               Pflegegrad beantragt </div>
@@ -470,7 +470,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57686/original_05x_kein_pflegegrad.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 " >
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper " >
               <div class="panel-body text-center card-text">
 
               <div class="col-xs-10" style="padding-right: 0px;">
@@ -493,7 +493,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57758/original_05x_weiss_nicht.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper">
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Weiß nicht </div>
