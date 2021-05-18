@@ -59,7 +59,7 @@ Bereits <strong class="strong-nav">365.034</strong><br/> Treppenlift-Anfragen ge
 <div class="mt-5">&nbsp;</div>
 <div class="container-fluid">
 <div class="col-md-4 col-md-offset-4" >
-        <div class="shadow-sm p-3 mb-5 bg-body rounded" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius:1%;background-color: #fff;padding: 40px"> 
+        <div class=" form-card" style=""> 
         <form>
             <div class="form-row">
                 <div class="form-group">
@@ -101,16 +101,18 @@ Bereits <strong class="strong-nav">365.034</strong><br/> Treppenlift-Anfragen ge
   <button type="submit" name="submit" class=" btn btn-success btn-lg" style="border:0px; width:100%" id="submit"><span>Angebote vergleichen</span>&nbsp<i class="fa fa-caret-right"></i></button>
 </form><div class="mt-5">&nbsp;</div></div>
         </div>  <div class="mt-5">&nbsp;</div>
-        <div class="col-md-4 col-md-offset-4"style=" padding-left:10px; padding-right:0px"><div class="mt-5">&nbsp;</div>
-        <div class="col-md-12"style=" padding-left:0px; padding-right:0px">
-    <div class="col-md-8" style="font-size: 14px; padding-left:0px; padding-right:0px">Unser Service:
+        <div class="col-md-4 col-md-offset-4 col-xs-12"style=" padding-left:10px; padding-right:0px"><div class="mt-5">&nbsp;</div>
+        <div class="col-md-12 col-xs-12"style=" padding-left:0px; padding-right:0px">
+    <div class="col-md-8 col-xs-8 list" >Unser Service:
 <ul style="padding-inline-start: 10px;">
     <li>100% kostenlos & unverbindlich</li>
     <li>Keine Auftragspflicht</li>
     <li>Anbieterkontakt nur mit Ihrer Zustimmung</li>
     </ul>
 </div>
-<div class="col-md-4"><img src="./assets/img/form.jpg" class="img-fluid" alt=""></div>
+<div class="col-md-4 col-xs-4">
+<div class="mt-5">&nbsp;</div>    
+<img src="./assets/img/form.jpg" class="img-fluid" alt=""></div>
 </div>
 </div>
 

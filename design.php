@@ -242,7 +242,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57650/original_05x_gerade_treppe.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 "  style="padding-left: 0px; padding-right:0px">
+           <div class="col-xs-9 col-md-12 col-sm-12 "  >
               <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Gerade Treppe </div>
@@ -264,9 +264,8 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57755/original_05x_treppe_mit_kurve.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
-              <div class="panel-body text-center card-text" style=" padding:0px;   padding-top: 15px;
-    padding-bottom: 15px;">
+           <div class="col-xs-9 col-md-12 col-sm-12" >
+              <div class="panel-body text-center card-text" >
               <div class="col-xs-10">
               Treppe mit Kurve </div>
                 <div class="col-xs-1 text-right"><i class="fa fa-caret-right icon" aria-hidden="true" ></i>
@@ -287,9 +286,8 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57752/original_05x_sonstiges_hindernis.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 " style="padding-left: 0px; padding-right:0px">
-              <div class="panel-body text-center card-text" style=" padding:0px;   padding-top: 15px;
-    padding-bottom: 15px;">
+           <div class="col-xs-9 col-md-12 col-sm-12">
+              <div class="panel-body text-center card-text" >
 
               <div class="col-xs-10"style="padding-right: 0px;">
               Sonstige Hindernisse </div>
@@ -380,9 +378,8 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57749/original_05x_sonstiges_hindernis_2.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 " style="padding-left: 0px;padding-right:0px;">
-              <div class="panel-body text-center card-text" style=" padding:0px;   padding-top: 15px;
-    padding-bottom: 15px;" >
+           <div class="col-xs-9 col-md-12 col-sm-12 ">
+              <div class="panel-body text-center card-text" >
 
               <div class="col-xs-10" style="padding-right:0px;">
               Sonstiges Hindernis</div>
@@ -429,10 +426,9 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57695/original_05x_pflegegrad_erteilt.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
-              <div class="panel-body text-center card-text" style=" padding:0px;   padding-top: 15px;
-    padding-bottom: 15px;">
-              <div class="col-xs-10" style="padding-right: 0px;">
+           <div class="col-xs-9 col-md-12 col-sm-12">
+              <div class="panel-body text-center card-text" >
+              <div class="col-xs-10" >
               Pflegegrad erteilt </div>
                 <div class="col-xs-1 text-right"><i class="fa fa-caret-right icon" aria-hidden="true" ></i>
                 </div>
@@ -452,9 +448,8 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57692/original_05x_pflegeggrad_beantragt.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12"  style="padding-left: 0px; padding-right:0px">
-              <div class="panel-body text-center card-text" style=" padding:0px;   padding-top: 15px;
-    padding-bottom: 15px;">
+           <div class="col-xs-9 col-md-12 col-sm-12"  >
+              <div class="panel-body text-center card-text">
               <div class="col-xs-10" style="padding-right: 0px;">
               Pflegegrad beantragt </div>
                 <div class="col-xs-1 text-right"><i class="fa fa-caret-right icon" aria-hidden="true" ></i>
@@ -475,9 +470,8 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/57686/original_05x_kein_pflegegrad.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 "  style="padding-left: 0px; padding-right:0px">
-              <div class="panel-body text-center card-text"style=" padding:0px;   padding-top: 15px;
-    padding-bottom: 15px;" >
+           <div class="col-xs-9 col-md-12 col-sm-12 " >
+              <div class="panel-body text-center card-text">
 
               <div class="col-xs-10" style="padding-right: 0px;">
               Kein Pflegegrad </div>

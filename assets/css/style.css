@@ -84,6 +84,9 @@ padding-right: 8px;
   max-width: 100%;
   height: auto;
 }
+.form-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius:1%;background-color: #fff;padding: 40px
+}
 
         #blue-card{
             background-color: #267ebf;
@@ -203,9 +206,17 @@ padding-right: 8px;
   padding: 20px; text-align:left; padding-left:0px
 }
 }
+
 @media only screen and (max-width: 500px) and (min-width: 330px){ 
   .container-md {
   width: 360px;
+}
+.form-card{
+    box-shadow: none;   background-color: #e5f1f7;
+}
+.list{
+    font-size: 11px; padding-left:0px; padding-right:0px;
+    color: #595959;
 }
 .icon{
   display: block;
@@ -221,7 +232,7 @@ padding-right: 8px;
   height: 90px;
 }
 .card-text{
-  padding: 25px; text-align:left; padding-left:0px;width: 120%;
+  padding: 25px; text-align:left; padding-left:0px;width: 100%; padding-right: 0px;
 }
 }
 @media only screen and (max-width: 330px) { 
