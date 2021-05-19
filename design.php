@@ -79,7 +79,7 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
               <div class="col-xs-3 col-md-12 col-sm-12" style="padding-left: 0px; padding-right:0px">
               <img class="img-fluid" height="auto" src="./assets/img/radio(1-4)1.png" alt="">
               </div>
-           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper " style="">
+           <div class="col-xs-9 col-md-12 col-sm-12 card-wrapper " >
               <div class="panel-body text-center card-text"  >
               <div class="col-xs-10 ">
               Sitzlift</div>
@@ -570,31 +570,41 @@ Bereits <strong class="strong-nav">365.034 <i class="fas fa-arrow-circle-up" sty
 </div> 
 <br><br><br>
 <div class="mt-2">&nbsp;</div>
-<div class="container-fluid contact-us text-center ">
+<div class="container-fluid contact-us  ">
 
 
 <div class="row ">
 <div class="col-md-12 col-sm-12 col-xs-12 contact-us-child-wrapper " >
 <div class="mt-2">&nbsp;</div>
     <div class="col-md-4 col-sm-12 col-xs-12  contact-us-child mb-sm-3">
-        <div class="col-md-2 col-sm-1 col-xs-2" style="padding-left: 0px ; padding-right:0px">
+        <div class="col-md-2 col-sm-1 col-xs-2 contact-us-logo" >
 <img width="30" height="30" style="height: auto;" srcset="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35710/original_05x_trust-man.png 1x, //d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35710/trust-man.png 2x" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35710/original_05x_trust-man.png" alt="Original 05x trust man" /></div>
-<div class="col-md-10 col-sm-10 col-xs-10 contact-us-text" >
+<div class="col-md-10 col-sm-10 col-xs-10 contact-us-text" style="          padding-left: 0px;
+          padding-right: 0px;
+          margin-top: 1%;
+          font-size: 15px"  >
 <span  >
 Kostenloser Kundenservice: 0800 29 29 29 4</span>
 </div>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12  contact-us-child mb-sm-3">
-<div class="col-md-2 col-sm-1 col-xs-2 " style="padding-left: 0px ; padding-right:0px">
+<div class="col-md-2 col-sm-1 col-xs-2  contact-us-logo " >
 <img width="30" height="30" style="height: auto;" srcset="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35712/original_05x_trust-heart.png 1x, //d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35712/trust-heart.png 2x" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35712/original_05x_trust-heart.png" alt="Original 05x trust heart" /> </div>
-<div class="col-md-10 col-sm-10 col-xs-10 contact-us-text" >
+<div class="col-md-10 col-sm-10 col-xs-10 contact-us-text" style=" padding-left: 0px;
+          padding-right: 0px;
+          margin-top: 1%;
+          font-size: 15px" 
+          >
 <span  >100% kostenlos und unverbindlich</span>
 </div>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12  contact-us-child mb-sm-3">
-<div class="col-md-2 col-sm-1 col-xs-2" style="padding-left: 0px ; padding-right:0px">
+<div class="col-md-2 col-sm-1 col-xs-2  contact-us-logo" >
 <img width="30" height="30" style="height: auto;" srcset="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35714/original_05x_trust-star.png 1x, //d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35714/trust-star.png 2x" src="//d2h1t9243qzgjg.cloudfront.net/uploads/attachment/image/35714/original_05x_trust-star.png" alt="Original 05x trust star" />  </div>
-<div class="col-md-10 col-sm-10 col-xs-10 contact-us-text" >
+<div class="col-md-10 col-sm-10 col-xs-10 contact-us-text" style=" padding-left: 0px;
+          padding-right: 0px;
+          margin-top: 1%;        
+          font-size: 15px"  >
 <span  >Top-Marken Auswahl </span>
 </div>
 </div>
