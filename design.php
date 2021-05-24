@@ -33,7 +33,7 @@ include("./assets/components/header.php")
     
         <div class="tab col-xs-12 col-md-12 col-sm-12">
         <div class="col-md-12 text-center">
-  <h3 style="font-weight: bold; margin-top:80px">Was für einen Lift suchen Sie?</h3>
+  <div class="headings">Was für einen Lift suchen Sie?</div>
   </div>
   <div class="mt-5">&nbsp;</div>
         <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12  card-wrapper">
@@ -509,8 +509,8 @@ für die regionale Suche an.</h3></div>
   <span class="step"></span>
   <span class="step"></span>
 </div> -->
-<div class="col-md-12 col-sm-12 col-xs-12 text-center">
-  <div class="col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3 col-xs-6 col-xs-offset-3 ">
+<div class="col-md-12 col-sm-12 col-xs-12 text-center"style="padding-left:10px">
+  <div class="col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 progress-bar-wrapper">
 <div class="number"></div>
 <div class="progress text-center">
     
